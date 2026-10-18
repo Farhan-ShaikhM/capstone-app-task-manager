@@ -1,6 +1,6 @@
 # Task Manager
 
-![CI](https://github.com/Farhan-ShaikhM/capstone-app/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/Farhan-ShaikhM/capstone-app-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/Farhan-ShaikhM/capstone-app-task-manager/actions/workflows/ci.yml)
 
 A full-stack MERN task manager with secure user accounts. Users register and log in with JWT authentication, then create, update, filter, search and sort their own tasks. The backend is covered by automated API tests that run on every push through GitHub Actions.
 
@@ -67,8 +67,8 @@ server/                 Express REST API
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Farhan-ShaikhM/capstone-app.git
-cd capstone-app
+git clone https://github.com/Farhan-ShaikhM/capstone-app-task-manager.git
+cd capstone-app-task-manager
 ```
 
 ### 2. Backend
